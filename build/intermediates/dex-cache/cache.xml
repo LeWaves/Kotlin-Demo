@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\iclick\.gradle\caches\modules-2\files-2.1\io.realm\realm-annotations\3.7.2\d90ea7e1b575524349742f2ed45c375508daea83\realm-annotations-3.7.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d90ea7e1b575524349742f2ed45c375508daea83">
+        <dex dex="D:\Android_work\androidStudio\work\frame-lib-demo\frame-lib\app\build\intermediates\pre-dexed\debug\realm-annotations-3.7.2_9dc19051c812908bf276fa7e2786b2f3976a3c6e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android_work\androidStudio\work\frame-lib-demo\frame-lib\app-user-frame-lib\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fb0e22f2a3f65597a4f02030fd755b59bb05adde">
+        <dex dex="D:\Android_work\androidStudio\work\frame-lib-demo\frame-lib\app\build\intermediates\pre-dexed\debug\classes_506067d17e4c496f5a5a9b06e8e87ffdc5f34193.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\iclick\.gradle\caches\modules-2\files-2.1\org.jetbrains.kotlin\kotlin-stdlib-jre7\1.1.0\ef03cfed144ff47eed2cab1f7be4381bc18a6237\kotlin-stdlib-jre7-1.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ef03cfed144ff47eed2cab1f7be4381bc18a6237">
+        <dex dex="D:\Android_work\androidStudio\work\frameDemo\app\build\intermediates\pre-dexed\debug\kotlin-stdlib-jre7-1.1.0_fa5c3e1842c782bccb6a718acd37063757a9f404.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android_work\androidStudio\work\frameDemo\app-user-frame-lib\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d6a3eae4078d4555f784b3724b879d9424018003">
+        <dex dex="D:\Android_work\androidStudio\work\frameDemo\app\build\intermediates\pre-dexed\debug\classes_1dd39ddfa125ea324373ab388140c3c09a970782.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\iclick\.gradle\caches\modules-2\files-2.1\org.jetbrains\annotations\13.0\919f0dfe192fb4e063e7dacadee7f8bb9a2672a9\annotations-13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="919f0dfe192fb4e063e7dacadee7f8bb9a2672a9">
+        <dex dex="D:\Android_work\androidStudio\work\frameDemo\app\build\intermediates\pre-dexed\debug\annotations-13.0_cf92aee4d3e59608a89e4b280b94e8576a5dd3d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\iclick\.gradle\caches\modules-2\files-2.1\org.jetbrains.kotlin\kotlin-stdlib\1.1.0\96a07041a11a09cf578892932d7511e1e11e3b6c\kotlin-stdlib-1.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="96a07041a11a09cf578892932d7511e1e11e3b6c">
+        <dex dex="D:\Android_work\androidStudio\work\frameDemo\app\build\intermediates\pre-dexed\debug\kotlin-stdlib-1.1.0_8bdc8bd4639f1aec5b4c1f5afd37d1c792f868f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\iclick\.gradle\caches\modules-2\files-2.1\org.jetbrains.kotlin\kotlin-reflect\1.1.0\2f22fa91aed07f3764431130a51366e1669e0c24\kotlin-reflect-1.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2f22fa91aed07f3764431130a51366e1669e0c24">
+        <dex dex="D:\Android_work\androidStudio\work\frameDemo\app\build\intermediates\pre-dexed\debug\kotlin-reflect-1.1.0_52e9324cf16985ad5301edfb03c700adb17b9a3f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\iclick\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.2\25ea2e8b0c338a877313bd4672d3fe056ea78f0d\jsr305-3.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="25ea2e8b0c338a877313bd4672d3fe056ea78f0d">
+        <dex dex="D:\Android_work\androidStudio\work\frame-lib-demo\frame-lib\app\build\intermediates\pre-dexed\debug\jsr305-3.0.2_dd433bc8fac525ea3a764cf2c94dc98d51dd04a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\iclick\.android\build-cache\eacff4082ce613afe2f675d8556512954e3c45cc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="1f58798c6ba883c164738ecca1b8e38bac987841">
+        <dex dex="D:\Android_work\androidStudio\work\frame-lib-demo\frame-lib\app\build\intermediates\pre-dexed\debug\classes_33eb882ae9cfaf7f14c0bb7b07237b857530eaa5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\iclick\.android\build-cache\13d662abe356d7a99d7e006b9ce0edab0baade16\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b64dd5f01bc37de289f90fd59299b0c76d119611">
+        <dex dex="D:\Android_work\androidStudio\work\frame-lib-demo\frame-lib\app\build\intermediates\pre-dexed\debug\classes_51a7a37c7c02c496ade4c09414b46a8a90937ef8.jar" />
+    </item>
+
+</items>
