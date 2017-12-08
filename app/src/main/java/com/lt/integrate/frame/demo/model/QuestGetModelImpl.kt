@@ -23,7 +23,6 @@ class QuestGetModelImpl : QuestGetModel {
         if (AppUtils.isNetworkAvailable(context)) {
             HttpJSONRequest(context, HttpMethodState.GET, url, object : HttpJSONRequest.RequestNetWork {
                 override fun onSuccess(response: JSONObject) {
-                    //Log.i("iax","onSuccess JSONObject :"+response?.toString())
                     try {
                         val itemList = ArrayList<ItemObject>()
                         var value =""
@@ -74,13 +73,11 @@ class QuestGetModelImpl : QuestGetModel {
                         }
                     } catch (e: JSONException) {
                         e.printStackTrace()
-                        Log.i("iax", "解析数据异常:" + e.toString())
                     }
 
                 }
 
                 override fun onFailure(error: VolleyError) {
-                    Log.i("iax","onFailure 解析异常 :"+error?.toString())
                     listener.onErrorHttps("解析异常")
                 }
             })

@@ -76,7 +76,6 @@ class MainActivity : AppCompatActivity(), QuestGetView, OnItemClickListener {
     }
 
     override fun onHttpSucesss(list: List<ItemObject>, data: String) {
-        Log.i("iax"," onHttpSucesss  size :"+list?.size+"== item:"+list?.get(0))
         pullLoadMoreRecyclerView.setPullLoadMoreCompleted()
         if (list.isEmpty() || list?.size ==0) {
             return
